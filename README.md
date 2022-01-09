@@ -1,2 +1,3 @@
 # hello-world
-a new test repository
+ABOUT ME.
+Hi! my name is Jhonatan Felipe Segura Pinto, I'm actually studying systems engineering at Universidad El Bosque.
